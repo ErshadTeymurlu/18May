@@ -1,0 +1,22 @@
+body{
+    font-family: Montserrat;
+}
+nav a{
+    font-weight: 600;
+}
+nav{
+    background-color: #3C91E6;
+}
+.text-disabled{
+    color: rgba(255, 255, 255, 0.548);
+    transition: all .3s ease;
+}
+.text-disabled:hover{
+    color: white;
+}
+.btn-primary{
+    background-color: #3C91E6;
+}
+.btn-primary:hover{
+    background-color: #3C91E6;
+}
